@@ -1,1 +1,21 @@
-{}
+{
+  "practice/sql/easy/easy-select-001/solution.sql": "b6f91647066219a26264fb93a5c35be9b8989ced4b82dc155dea4a97f92c2fed",
+  "practice/sql/easy/easy-select-002/solution.sql": "e4b9c5ff7f425c57927086edbe48df34a46afbca3e3c8f67e6bdba2318ef6812",
+  "practice/sql/easy/easy-select-005/solution.sql": "eda5d94ffd9e5ee9cb5aa52f312f6ba80d65a05d340aa9fa2f5a9bb24be2279f",
+  "practice/sql/easy/easy-where-001/solution.sql": "9438ee4295c322b0b1e97c1753055be82bb606d623b4fa01bc5dc4bdf2ac60bd",
+  "practice/sql/easy/easy-count-001/solution.sql": "764452e80b0ffdf4a9e3ac80f10b41cbcc09d94e1516fa9297fa7030794ad49a",
+  "practice/sql/easy/easy-count-002/solution.sql": "58a97fb686e7f2529370a427829f8319b12e80c4b305b1613eb957253e10621c",
+  "practice/sql/easy/easy-avg-001/solution.sql": "9c4006e8eff3afea850a24c89af078b5b5c74b63f5478b05fd7baeba811ba0c9",
+  "practice/sql/easy/easy-distinct-006/solution.sql": "c9dfad514562a835139cc4d1451d848ccd84c8e13703676b5cef6adc7cbdd87b",
+  "practice/sql/easy/easy-like-001/solution.sql": "1945cd21110b6856278e3a2ee26b7ba95be72a8eecc49558adb1b3af0d9d9cd8",
+  "practice/sql/easy/easy-orderby-001/solution.sql": "604901b5085ce2147176b0b049af33900e0c09338c3ebadbc376d28b31f3ed4d",
+  "practice/sql/easy/easy-sum-001/solution.sql": "bb91b6bcf8a84ce13b27a8482b5fb386b05c14f23718a1c017cba3cd5762c703",
+  "practice/sql/easy/easy-sum-003/solution.sql": "fc2985c06f5556cf81ec9bbea018aae7c4818c0088635d698a2968e9e195972a",
+  "practice/sql/easy/easy-sum-004/solution.sql": "5f60a5a0f7420cfb4b4c72f5739690559c2fde245c21cce140ddd30b4ab99254",
+  "practice/sql/easy/easy-where-002/solution.sql": "1770509aaea21002b6d42694060ac6a07d86c7fec69e83dea56f37df3ff7c2ca",
+  "practice/sql/easy/easy-where-003/solution.sql": "a92263167515e52de206e88d8791fa088a215ea03c977acc188c291f0b3b1c14",
+  "practice/sql/easy/easy-count-006/solution.sql": "210dff2ab7cb505f8eb28a89edc2cdaab6c03dbace3f9a65f13b9a60f93abb07",
+  "practice/sql/easy/easy-distinct-007/solution.sql": "388f08461e0dcb245306b6d54acceb57ec8ad146ab2af6ae1ba10a51630610e9",
+  "practice/sql/easy/easy-where-020/solution.sql": "7e3f289a251c8c656548d8a0484c810d2801ebaaf4e76eca37492c1d18af4256",
+  "practice/sql/easy/easy-where-023/solution.sql": "2f36246772b7a7e6a5cb9eeac9418210dc788fd2a155f30e644807d1e0e87ecd"
+}

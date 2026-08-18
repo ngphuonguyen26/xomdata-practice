@@ -3,7 +3,28 @@
 Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.com/practice).
 
 <!-- xomdata:stats:start -->
-_Not synced yet — connect this repo at [xomdata.com/settings](https://xomdata.com/settings) and hit **Sync**._
+
+**19** problems solved on [Xom Data](https://xomdata.com/practice).
+
+| Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
+|---|:---:|:---:|:---:|:---:|:---:|
+| SQL | 19 | 0 | 0 | 0 | 19 |
+
+**Recently solved**
+
+- [easy-where-023](https://xomdata.com/practice/easy-where-023) · Easy · 2026-08-17
+- [easy-where-020](https://xomdata.com/practice/easy-where-020) · Easy · 2026-08-17
+- [easy-distinct-007](https://xomdata.com/practice/easy-distinct-007) · Easy · 2026-08-17
+- [easy-count-006](https://xomdata.com/practice/easy-count-006) · Easy · 2026-08-17
+- [easy-where-003](https://xomdata.com/practice/easy-where-003) · Easy · 2026-08-17
+- [easy-where-002](https://xomdata.com/practice/easy-where-002) · Easy · 2026-08-17
+- [easy-sum-004](https://xomdata.com/practice/easy-sum-004) · Easy · 2026-08-17
+- [easy-sum-003](https://xomdata.com/practice/easy-sum-003) · Easy · 2026-08-17
+- [easy-sum-001](https://xomdata.com/practice/easy-sum-001) · Easy · 2026-08-17
+- [easy-orderby-001](https://xomdata.com/practice/easy-orderby-001) · Easy · 2026-08-17
+
+_Synced 19 solutions · last update 2026-08-18_
+
 <!-- xomdata:stats:end -->
 
 ## About this repo
