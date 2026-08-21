@@ -27,5 +27,6 @@
   "practice/python/easy/py-reverse-order/solution.py": "f04080a280801d00134153308d2e6fcc9f8d5f615350df396c94a5ad7eb6eeeb",
   "practice/python/easy/py-safe-divide/solution.py": "71188fcd042b606a62fdcbb2aa9d22d56564eaf7bf7112ba9de0b739eae7a8ae",
   "practice/python/easy/py-shipping-fee/solution.py": "54d2e72fff09daadd8b5c68aef125f38c766c20a691f18c28349bafe31734388",
-  "practice/python/easy/py-slugify-space/solution.py": "351345244d83114b2b2834a2176637365281f0d5424a478f949f6f2b7d60a09d"
+  "practice/python/easy/py-slugify-space/solution.py": "351345244d83114b2b2834a2176637365281f0d5424a478f949f6f2b7d60a09d",
+  "practice/sql/medium/medium-join-001/solution.sql": "68198dd877aa3c5ae8b234b65e88b82c2a260b2d9bc25284790a54f19cdfa38e"
 }
