@@ -4,26 +4,27 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**21** problems solved on [Xom Data](https://xomdata.com/practice).
+**29** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
-| SQL | 21 | 0 | 0 | 0 | 21 |
+| Python | 6 | 0 | 0 | 0 | 6 |
+| SQL | 23 | 0 | 0 | 0 | 23 |
 
 **Recently solved**
 
+- [py-slugify-space](https://xomdata.com/practice/py-slugify-space) · Easy · 2026-08-21
+- [py-shipping-fee](https://xomdata.com/practice/py-shipping-fee) · Easy · 2026-08-21
+- [py-safe-divide](https://xomdata.com/practice/py-safe-divide) · Easy · 2026-08-21
+- [py-reverse-order](https://xomdata.com/practice/py-reverse-order) · Easy · 2026-08-21
+- [py-reverse-code](https://xomdata.com/practice/py-reverse-code) · Easy · 2026-08-21
+- [py-rectangle-area](https://xomdata.com/practice/py-rectangle-area) · Easy · 2026-08-21
+- [easy-limit-004](https://xomdata.com/practice/easy-limit-004) · Easy · 2026-08-20
+- [easy-limit-002](https://xomdata.com/practice/easy-limit-002) · Easy · 2026-08-20
 - [easy-between-001](https://xomdata.com/practice/easy-between-001) · Easy · 2026-08-18
 - [easy-avg-003](https://xomdata.com/practice/easy-avg-003) · Easy · 2026-08-18
-- [easy-where-023](https://xomdata.com/practice/easy-where-023) · Easy · 2026-08-17
-- [easy-where-020](https://xomdata.com/practice/easy-where-020) · Easy · 2026-08-17
-- [easy-distinct-007](https://xomdata.com/practice/easy-distinct-007) · Easy · 2026-08-17
-- [easy-count-006](https://xomdata.com/practice/easy-count-006) · Easy · 2026-08-17
-- [easy-where-003](https://xomdata.com/practice/easy-where-003) · Easy · 2026-08-17
-- [easy-where-002](https://xomdata.com/practice/easy-where-002) · Easy · 2026-08-17
-- [easy-sum-004](https://xomdata.com/practice/easy-sum-004) · Easy · 2026-08-17
-- [easy-sum-003](https://xomdata.com/practice/easy-sum-003) · Easy · 2026-08-17
 
-_Synced 21 solutions · last update 2026-08-19_
+_Synced 29 solutions · last update 2026-08-21_
 
 <!-- xomdata:stats:end -->
 

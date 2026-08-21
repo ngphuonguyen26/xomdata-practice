@@ -19,5 +19,13 @@
   "practice/sql/easy/easy-where-020/solution.sql": "7e3f289a251c8c656548d8a0484c810d2801ebaaf4e76eca37492c1d18af4256",
   "practice/sql/easy/easy-where-023/solution.sql": "2f36246772b7a7e6a5cb9eeac9418210dc788fd2a155f30e644807d1e0e87ecd",
   "practice/sql/easy/easy-avg-003/solution.sql": "06743b0fb83d4037da57b3a5f5b63a581e2ba20cdfae7fef59cb797dbb17b51c",
-  "practice/sql/easy/easy-between-001/solution.sql": "1c1e9d44f56255fa5a299a31a7c1f572fa3b71445bc928df00a352e97b6f04e1"
+  "practice/sql/easy/easy-between-001/solution.sql": "1c1e9d44f56255fa5a299a31a7c1f572fa3b71445bc928df00a352e97b6f04e1",
+  "practice/sql/easy/easy-limit-002/solution.sql": "0597a92de6064aead1e504d9d4c5106772486d0b800e30424cbc8b8e0119ca18",
+  "practice/sql/easy/easy-limit-004/solution.sql": "642a571fd2d65dbac0dab5af1d92af83dc4984afa17a5e79eeedf421ac30ae91",
+  "practice/python/easy/py-rectangle-area/solution.py": "f88e8a2946c56dbf277369c4db31d4c3ebd997fca47d716843e653d7bb2bceb4",
+  "practice/python/easy/py-reverse-code/solution.py": "d8ef15294a353aa2f324dc8624da06f4abbfe2d40958c75713d2ef0c5b7d2624",
+  "practice/python/easy/py-reverse-order/solution.py": "f04080a280801d00134153308d2e6fcc9f8d5f615350df396c94a5ad7eb6eeeb",
+  "practice/python/easy/py-safe-divide/solution.py": "71188fcd042b606a62fdcbb2aa9d22d56564eaf7bf7112ba9de0b739eae7a8ae",
+  "practice/python/easy/py-shipping-fee/solution.py": "54d2e72fff09daadd8b5c68aef125f38c766c20a691f18c28349bafe31734388",
+  "practice/python/easy/py-slugify-space/solution.py": "351345244d83114b2b2834a2176637365281f0d5424a478f949f6f2b7d60a09d"
 }
