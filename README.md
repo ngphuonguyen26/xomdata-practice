@@ -4,15 +4,17 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**31** problems solved on [Xom Data](https://xomdata.com/practice).
+**33** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
 | Python | 7 | 0 | 0 | 0 | 7 |
-| SQL | 23 | 1 | 0 | 0 | 24 |
+| SQL | 23 | 3 | 0 | 0 | 26 |
 
 **Recently solved**
 
+- [medium-subquery-103](https://xomdata.com/practice/medium-subquery-103) · Medium · 2026-08-27
+- [medium-case-124](https://xomdata.com/practice/medium-case-124) · Medium · 2026-08-27
 - [py-discount](https://xomdata.com/practice/py-discount) · Easy · 2026-08-22
 - [medium-join-001](https://xomdata.com/practice/medium-join-001) · Medium · 2026-08-21
 - [py-slugify-space](https://xomdata.com/practice/py-slugify-space) · Easy · 2026-08-21
@@ -21,10 +23,8 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 - [py-reverse-order](https://xomdata.com/practice/py-reverse-order) · Easy · 2026-08-21
 - [py-reverse-code](https://xomdata.com/practice/py-reverse-code) · Easy · 2026-08-21
 - [py-rectangle-area](https://xomdata.com/practice/py-rectangle-area) · Easy · 2026-08-21
-- [easy-limit-004](https://xomdata.com/practice/easy-limit-004) · Easy · 2026-08-20
-- [easy-limit-002](https://xomdata.com/practice/easy-limit-002) · Easy · 2026-08-20
 
-_Synced 31 solutions · last update 2026-08-22_
+_Synced 33 solutions · last update 2026-08-27_
 
 <!-- xomdata:stats:end -->
 

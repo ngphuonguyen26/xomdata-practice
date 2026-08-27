@@ -29,5 +29,7 @@
   "practice/python/easy/py-shipping-fee/solution.py": "54d2e72fff09daadd8b5c68aef125f38c766c20a691f18c28349bafe31734388",
   "practice/python/easy/py-slugify-space/solution.py": "351345244d83114b2b2834a2176637365281f0d5424a478f949f6f2b7d60a09d",
   "practice/sql/medium/medium-join-001/solution.sql": "68198dd877aa3c5ae8b234b65e88b82c2a260b2d9bc25284790a54f19cdfa38e",
-  "practice/python/easy/py-discount/solution.py": "b8501375b5eb18a6cfabeb73e4f8f34f329a2925d141d9e5bec0974d00a8edde"
+  "practice/python/easy/py-discount/solution.py": "b8501375b5eb18a6cfabeb73e4f8f34f329a2925d141d9e5bec0974d00a8edde",
+  "practice/sql/medium/medium-case-124/solution.sql": "00fe30e7d4d5a42412cac04ab3e937adbfde3e8ea4ef9e1e94a2b57de508551e",
+  "practice/sql/medium/medium-subquery-103/solution.sql": "bdd797ea8a2f683be9bcda4ce38a5852a486703121e86ad2afdc974decf96044"
 }
